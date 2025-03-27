@@ -13,6 +13,7 @@ By entering the number 1, you will be directed to select a difficulty level and 
 ***
 ### difficulties
 ![image](https://github.com/user-attachments/assets/e25228ae-939e-48d3-902c-5d0a9aa02033)
+
 **The difficulty level directly impacts your remaining time.**
 + In easy mode, you have 5 minutes.
 + In medium mode, you have 3 minutes.
