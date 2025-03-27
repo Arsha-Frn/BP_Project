@@ -25,6 +25,13 @@ By entering the number 1, you will be directed to select a difficulty level and 
 - **Timer**: Tracks the duration of the game.
 - **Score Counter**: Displays the player's current score.
 - **Wrong Moves**: Keeps track of the number of incorrect moves made, If this counter reaches **5**, the game will end.
+- Pressing the Q key will take you to the main menu.
+---
+### Pause menu
+Pressing the Esc key will take you to the pause menu.
+![image](https://github.com/user-attachments/assets/dc967b57-9af3-4c2d-b54e-5ab59143e3cb)
+***
+>THE END.
 
 
 
