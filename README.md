@@ -7,7 +7,7 @@ The "Press Any Key" screen allows the user to resize the window to their preferr
 ### User name screen
 On this screen, you can create your own username, and all your game data will be saved under it.
 ***
-### The menu
+### Main menu
 ![image](https://github.com/user-attachments/assets/b945132c-6726-4455-82f5-855be60f85ab)
 By entering the number 1, you will be directed to select a difficulty level and begin your game.
 ***
